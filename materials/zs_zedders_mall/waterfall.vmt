@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	$basetexture "zs_zedders_mall/waterfall"
+	"$translucent" 1
+	"proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "2.5"
+			"texturescrollangle" "270"
+			}
+	}
+}

@@ -1,0 +1,16 @@
+"LightMappedGeneric"
+{
+"$additive" 1
+"$translucent" 0.8
+"$baseTexture" "zs_zedders_mall/kappa"
+"$surfaceprop" "Default"
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "0.2" 
+}
+} 
+}

@@ -1,0 +1,14 @@
+"Refract"
+{
+ 	"$refractamount" ".08"
+	"$normalmap" "zs_zedders_mall/waterfall_n"
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar $bumpTransform
+			texturescrollrate 2.5
+			texturescrollangle 270.00
+		}
+	}
+}
