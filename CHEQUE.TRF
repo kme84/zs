@@ -1,0 +1,24 @@
+#[HEADER]
+@CurrentDate.10@ @CurrentTime.5@ —¥ª No. @CkNumber.6.2@ ‘…€ No. @CkNSmena.5.2@
+------------------------------------------------------------
+#[CENTER]
+@GoodsPos.2.2@.@GoodsPosSigh.1@€ΰβ.@GoodsItem.7@  @GoodsName.29@
+–¥­ =@GoodsPrice.11.9@*®«-Ά®=@GoodsQuant.8.9@= @GoodsFullSumma.12.9@
+@NotGoodsDiscount.1.24@–¥­  α γη¥β®¬ αª¨¤ª¨ = @GoodsSumma.12.1@
+‘β Άª  „‘ @GoodsNDS.2.1@% @GoodsNDSSumma.12.1@
+#[FOOTER]
+@SlipForClient@
+------------------------------------------------------------
+#[DISCS]
+@NotDiscCli.1.24@ ΰβ 	@DiscCliBarCode.16.1@
+@NotDiscCli.1.24@‘ª¨¤ª  @DiscCliPercentApply.9.2@% =@DiscCliSumma.11.2@ “
+#[BOTTOM]
+@NotCkDiscount.1.24@ϋ‘„€ ‘ —…€:     @CkPercent.5.2@ %=@CkDiscount.9.2@ “
+@NotCkGoodsNDS10.1.24@‘γ¬¬  „‘ 10% ―® η¥ªγ   =   @CkSummaNDS10.9.2@ “
+@NotCkGoodsNDS18.1.24@‘γ¬¬  „‘ 18% ―® η¥ªγ   =   @CkSummaNDS18.9.2@ “
+@CkReturn.1.24@‹“—… €‹—›:     @CkBuyCashSumma.12.2@ “
+@CkReturn.1.24@@NotBankSumma.1.24@‹“—…  /   :     @CkBuyBankSumma.12.2@ “
+@NotCkReturn.1.24@ϋ‚‡‚€’ €‹—›:      @CkReturnCashSumma.12.2@ “
+@NotCkReturn.1.24@@NotBankSumma.1.24@ϋ‚‡‚€’  /   :      @CkReturnBankSumma.12.2@ “
+@NotCkRetSumma.1.8@‘„€—€   :               @CkRetSumma.12.2@ “
+#[ENDDOC]
